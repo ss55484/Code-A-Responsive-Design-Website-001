@@ -185,15 +185,43 @@ footer a{
 
 /*Tablets*/
 @media screen and (max-width: 768px){
-    #featured li{
-        width: 46%;
+
+    header nav{
+        float: none;
+        clear: left;
+        width: 100%;
     }
+    
+    header nav ul{
+        margin: 0;
+        padding: 0;
+    }
+    
+    h1.logo{
+        margin: 10px auto 0;
+        float: none;        
+    }
+    
+    header nav ul li{
+        margin: 10px 0;
+        padding: 0;
+        width: 20%;
+        text-align: center;
+    }
+    
+    #feature li{
+        width: 48%;
+    }
+    
+    footer ul{
+        width: 48%;
+        text-align: center;
+    }
+    
 }
 
 /*Mobiles*/
 @media screen and (max-width: 480px){
-    #featured li{
-        width: 92%;
-    }
+
 }
 

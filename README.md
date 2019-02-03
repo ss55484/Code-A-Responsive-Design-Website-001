@@ -14,3 +14,8 @@
     - Changed media queries 
         -700 px to 768px
         -400 px to 480px
+        
+#commit 7
+    - changed media queries for tablet
+        - added nav, footer, and featured li designs for tablets
+    - removed media queries for mobiles
