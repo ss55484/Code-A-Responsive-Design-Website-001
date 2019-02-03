@@ -9,3 +9,8 @@
     - updated index.html
     - updated styles.css
     - added media queries for #featured li 
+    
+#Commit 6
+    - Changed media queries 
+        -700 px to 768px
+        -400 px to 480px
