@@ -222,6 +222,8 @@ footer a{
 
 /*Mobiles*/
 @media screen and (max-width: 480px){
-
+    #featured li {
+        width: 92%;
+    }
 }
 
