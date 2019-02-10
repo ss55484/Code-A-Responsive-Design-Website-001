@@ -26,3 +26,9 @@
 #commit 11
     - media: 480x
         - edited the list pictures, footer list, menu items, and the main banner
+        
+#commit 13
+    - added a drop down menu for media query less than 480px
+    - made a menu.js for the drop down menu
+    - added the burger.png to the image folder
+    - attached to the index.html a js script
