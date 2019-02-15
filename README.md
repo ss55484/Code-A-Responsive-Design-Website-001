@@ -32,3 +32,9 @@
     - made a menu.js for the drop down menu
     - added the burger.png to the image folder
     - attached to the index.html a js script
+    
+#commit 14
+    - updated the banner to allow for different pictures for the different screen sizes
+    - added picturefill js
+        - used to allow the picture tag
+    - added images banner-small.jpg, banner-small.jpg to the images folder
